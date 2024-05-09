@@ -1,2 +1,2 @@
 # auto-wordpress
-Deploy Wordpress automatically using AWS ElasticBeanstalk and some other services
+Deploy Wordpress on Docker
